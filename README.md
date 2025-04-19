@@ -1,1 +1,2 @@
 # Airbnb-Analysis
+**This project explores and analyzes an Airbnb dataset using Python and libraries like Pandas, NumPy, Matplotlib, and Seaborn. The dataset was cleaned by handling missing values and standardizing column names for consistency. Key columns such as host_identity_verified and host_name were processed to deal with null entries. Initial exploratory steps included checking data types, understanding column distributions, and identifying unique values. The data is now structured and ready for deeper insights through visualizations and further analysis.**
